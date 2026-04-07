@@ -1,5 +1,6 @@
 function add(a, b) {
-return a + b;
+  console.log("Adding:", a, b); // Thêm dòng này vào
+  return a + b;
 }
 function subtract(a, b) {
 return a - b;
